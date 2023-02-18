@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:forms/login.dart';
-import 'package:forms/register.dart';
+import 'package:flutter_forms/login.dart';
+import 'package:flutter_forms/register.dart';
 
 void main() {
   runApp(
