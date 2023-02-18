@@ -48,5 +48,5 @@ Form(
 
 ## Output Sample
 
-<img src="try.png" width=1440 height=440>
-![Registration Screen](image_two.png)
+<img src="try.png" width=720 height=1520>
+<img src="image_two.png" width=720 height=1520>
