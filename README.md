@@ -48,7 +48,7 @@ Form(
 
 ## Output Sample
 
-| ----------- | ------------ |
-
-<img src="try.png" width=360 height=760>
-<img src="image_two.png" width=720 height=1520>
+<p float="left">
+  <img src="try.png" width=360 height=760>
+  <img src="image_two.png" width=720 height=1520>
+</p>
