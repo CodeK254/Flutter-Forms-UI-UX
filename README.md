@@ -46,9 +46,18 @@ Form(
       ),
 ```
 
-## Output Sample
+## Output Sample for:
+### 1. Layout One
 
 <p float="left">
   <img src="try.png" width=360 height=760>
   <img src="image_two.png" width=360 height=760>
+</p>
+
+### 1. Layout Two
+
+<p float="left">
+  <img src="git_images/get_started.png" width=360 height=760>
+  <img src="git_images/register.png" width=360 height=760>
+  <img src="git_images/login.png" width=360 height=760>
 </p>

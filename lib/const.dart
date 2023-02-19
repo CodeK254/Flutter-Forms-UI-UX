@@ -49,3 +49,24 @@ TextButton textButton(Color color, IconData icon, String text, Color textColor){
     ),
   );
 }
+
+Container textButtonTwo(String text, double width){
+  return Container(
+    width: width,
+    height: 50,
+    decoration: BoxDecoration(
+      color: Colors.black,
+      borderRadius: BorderRadius.circular(30),
+    ),
+    child: Center(
+      child: Text(
+        text,
+        style: const TextStyle(
+          color: Colors.white,
+          letterSpacing: 1.1,
+          fontSize: 20,
+        ),
+      ),
+    ),
+  );
+}
